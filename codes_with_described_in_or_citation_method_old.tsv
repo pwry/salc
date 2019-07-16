@@ -232,7 +232,7 @@ ascl_id	credit	described_in	citation_method
 1107.009	Ludwig, Marianne; Huege, Tim	a:2:{i:0;s:49:"http://adsabs.harvard.edu/abs/2011APh....34..438L";i:1;s:49:"http://adsabs.harvard.edu/abs/2012NIMPA.662S.164L";}	
 1107.010	Ruschel-Dutra, Daniel; Riffel, Rogério; Ducati, Jorge Ricardo; Pastoriza, Miriani	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2011PASP..123.1004R";}	
 1107.011	Schombert, James	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2007astro.ph..3646S";}	
-1107.012	Brinch, C.; Hogerheijde, M. R.	a:1:{i:0;s:51:"http://adsabs.harvard.edu/abs/2010A%26A...523A..25B";}	http://adsabs.harvard.edu/abs/2010A%26A...523A..25B
+1107.012	Brinch, C.; Hogerheijde, M. R.	a:1:{i:0;s:51:"http://adsabs.harvard.edu/abs/2010A%26A...523A..25B";}	
 1107.013	International Consortium Of Scientists	a:1:{i:0;s:54:"https://ui.adsabs.harvard.edu/#abs/2007ASPC..376..127M";}	http://adsabs.harvard.edu/abs/2007ASPC..376..127M
 1107.014	Williams, Jonathan P.; de Geus, Eugene J.; Blitz, Leo	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/1994ApJ...428..693W";}	http://adsabs.harvard.edu/abs/1994ApJ...428..693W
 1107.015	Kuepper, A. H. W.; Maschberger, Th.; Kroupa, P.; Baumgardt, H.	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2011MNRAS.417.2300K";}	http://adsabs.harvard.edu/abs/2011MNRAS.417.2300K
@@ -553,7 +553,7 @@ ascl_id	credit	described_in	citation_method
 1306.010	Hobson, M. P.; Maisinger, Klaus	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2002MNRAS.334..569H";}	
 1306.011	Fendt, Chad; Wandelt, Benjamin	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2007ApJ...654....2F";}	
 1306.013	Leung, Po Kin; Gammie, Charles F.; Noble, Scott C.	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2011ApJ...737...21L";}	
-1306.014	Stone, James M.; Norman, Michael L.	a:3:{i:0;s:49:"http://adsabs.harvard.edu/abs/1992ApJS...80..753S";i:1;s:53:"https://ui.adsabs.harvard.edu/abs/1992ApJS...80..791S";i:2;s:53:"https://ui.adsabs.harvard.edu/abs/1992ApJS...80..819S";}	
+1306.014	Stone, James M.; Norman, Michael L.	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/1992ApJS...80..753S";}	
 1306.015	McKinney, Jonathan C.; Gammie, Charles F.	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2002ApJ...573..728M";}	
 1306.016	Aldcroft, Tom	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2006HEAD....9.1358A";}	
 1307.001	Compiègne, M.; Verstraete, L.; Jones, A.; Bernard, J.-P.; Boulanger, F.; Flagey, N.; Le Bourlot, J.; Paradis, D.; Ysard, N.	a:1:{i:0;s:51:"http://adsabs.harvard.edu/abs/2011A%26A...525A.103C";}	http://adsabs.harvard.edu/abs/2011A%26A...525A.103C
@@ -1186,7 +1186,7 @@ ascl_id	credit	described_in	citation_method
 1612.021	Casado, J.; Ascasibar, Y.; García-Benito, R.; Guidi, G.; Choudhury, O. S.; Bellocchi, E.; Sánchez, S. F.; Díaz, A. I.	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2016arXiv160707299C";}	https://arxiv.org/abs/1607.07299 and a link to http://astro.ft.uam.es/SELGIFS/BaTMAn/
 1707.006	Price-Whelan, Adrian M.		Please see citation information here: http://gala.adrian.pw/en/latest/#attribution
 1811.013	Wood, Matt A.; Simpson, James C.	a:2:{i:0;s:49:"http://adsabs.harvard.edu/abs/2006PASP..118..442W";i:1;s:49:"http://adsabs.harvard.edu/abs/1995ApJ...448..822S";}	
-1701.001	Price-Whelan, Adrian M.; Hogg, David W.; Foreman-Mackey, Daniel; Rix, Hans-Walter	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2017ApJ...837...20P";}	https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P
+1701.001	Price-Whelan, Adrian M.; Hogg, David W.; Foreman-Mackey, Daniel; Rix, Hans-Walter	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2017ApJ...837...20P";}	http://adsabs.harvard.edu/abs/2016arXiv161007602P and https://doi.org/10.5281/zenodo.264481
 1701.012	Pettinari, Guido W.; Fidler, Christian	a:2:{i:0;s:49:"http://adsabs.harvard.edu/abs/2013JCAP...04..003P";i:1;s:49:"http://adsabs.harvard.edu/abs/2014arXiv1405.2280P";}	One or more of the following: http://arxiv.org/abs/1302.0832 http://adsabs.harvard.edu/abs/2014arXiv1405.2280P http://adsabs.harvard.edu/abs/2014PhRvD..90j3010P
 1704.010	Atay, T.; Kaplan, M.; Kilic, Y.; Karapinar, N.	a:1:{i:0;s:49:"http://adsabs.harvard.edu/abs/2016CoPhC.207..524A";}	http://adsabs.harvard.edu/abs/2016CoPhC.207..524A
 1701.010	Blanton, Michael R.; Roweis, Sam		http://adsabs.harvard.edu/abs/2007AJ....133..734B and specify the version tag of the code used

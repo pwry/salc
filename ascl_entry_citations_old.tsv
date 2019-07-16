@@ -113,7 +113,7 @@ ascl_id	credit	num_citations	bibcode
 1107.014	Williams, Jonathan P.; de Geus, Eugene J.; Blitz, Leo	1	2011ascl.soft07014W
 1107.015	Kuepper, A. H. W.; Maschberger, Th.; Kroupa, P.; Baumgardt, H.	1	2011ascl.soft07015K
 1107.016	Lorimer, D. R.	8	2011ascl.soft07016L
-1107.017	Ransom, Scott	16	2011ascl.soft07017R
+1107.017	Ransom, Scott	15	2011ascl.soft07017R
 1107.018	Górski, K. M.; Hivon, Eric	6	2011ascl.soft07018G
 1108.001	Kaiser, Nick	2	2011ascl.soft08001K
 1108.003	Calabretta, M. R.	3	2011ascl.soft08003C
@@ -169,12 +169,12 @@ ascl_id	credit	num_citations	bibcode
 1202.003	Kaplan, George; Bartlett, Jennifer Lynn; Monet, Alice; Bangert, John; Puatua, Wendy; Harris, William; Fredericks, Amy; Barron, Eric G.; Barrett, Paul	1	2012ascl.soft02003K
 1202.004	Koning, Arjan; Hilaire, Stephane; Duijvestijn, Marieke	1	2012ascl.soft02004K
 1202.005	Swanson, Molly; Tegmark, Max; Hamilton, Andrew; Hill, Colin	3	2012ascl.soft02005S
-1202.006	Heck, Dieter; Pierog, Tanguy; Knapp, Johannes	2	2012ascl.soft02006H
+1202.006	Heck, Dieter; Pierog, Tanguy; Knapp, Johannes	1	2012ascl.soft02006H
 1202.009	Sneden, Chris; Bean, Jacob; Ivans, Inese; Lucatello, Sara; Sobeck, Jennifer	25	2012ascl.soft02009S
 1202.010	Sneden, Chris; Uomoto, Alan; Cottrell, Peter; Fitzpatrick, Mike	1	2012ascl.soft02010S
 1202.012	Dimmelmeier, Harald; Novak, Jérôme; Cerdá-Durán, Pablo	1	2012ascl.soft02012D
 1202.013	Valenti, J. A.; Piskunov, N.	10	2012ascl.soft02013V
-1202.015	Dullemond, C. P.; Juhasz, A.; Pohl, A.; Sereshti, F.; Shetty, R.; Peters, T.; Commercon, B.; Flock, M.	145	2012ascl.soft02015D
+1202.015	Dullemond, C. P.; Juhasz, A.; Pohl, A.; Sereshti, F.; Shetty, R.; Peters, T.; Commercon, B.; Flock, M.	144	2012ascl.soft02015D
 1203.001	Broos, Patrick; Townsley, Leisa; Getman, Konstantin; Bauer, Franz	14	2012ascl.soft03001B
 1203.002	Barden, Marco; Häußler, Boris; Peng, Chien Y.; McIntosh, Daniel H.; Guo, Yicheng	1	2012ascl.soft03002B
 1203.003	Cooper, Michael C.; Newman, Jeffrey A.; Davis, Marc; Finkbeiner, Douglas P.; Gerke, Brian F.	99	2012ascl.soft03003C
@@ -210,7 +210,7 @@ ascl_id	credit	num_citations	bibcode
 1208.013	Freeland, S. L.; Handy, B. N.	6	2012ascl.soft08013F
 1208.014	van der Holst, Bar; Keppens, Rony; Meliani, Zakaria; Porth, Oliver; van Marle, Allard Jan; Delmont, Peter; Xia, Chun	2	2012ascl.soft08014V
 1208.016	Hartman, Joel	8	2012ascl.soft08016H
-1208.017	Robitaille, Thomas; Bressert, Eli	166	2012ascl.soft08017R
+1208.017	Robitaille, Thomas; Bressert, Eli	165	2012ascl.soft08017R
 1208.019	Markwardt, Craig	15	2012ascl.soft08019M
 1208.020	Kettenis, Mark; Sipior, Mike	1	2012ascl.soft08020K
 1208.021	Mancone, Conor; Gonzalez, Anthony	3	2012ascl.soft08021M
@@ -250,7 +250,7 @@ ascl_id	credit	num_citations	bibcode
 1302.013	Selig, Marco; Bell, Michael R.; Junklewitz, Henrik; Oppermann, Niels; Reinecke, Martin; Greiner, Maksim; Pachajoa, Carlos; Ensslin, Torsten A.	2	2013ascl.soft02013S
 1302.015	Sousbie, Thierry	2	2013ascl.soft02015S
 1303.001	Levison, Harold F.; Duncan, Martin J.	8	2013ascl.soft03001L
-1303.002	Foreman-Mackey, Daniel; Conley, Alex; Meierjurgen Farr, Will; Hogg, David W.; Lang, Dustin; Marshall, Phil; Price-Whelan, Adrian; Sanders, Jeremy; Zuntz, Joe	32	2013ascl.soft03002F
+1303.002	Foreman-Mackey, Daniel; Conley, Alex; Meierjurgen Farr, Will; Hogg, David W.; Lang, Dustin; Marshall, Phil; Price-Whelan, Adrian; Sanders, Jeremy; Zuntz, Joe	31	2013ascl.soft03002F
 1303.003	Akeret, Joël; Seehars, Sebastian; Amara, Adam; Refregier, Alexandre; Csillaghy, André	2	2013ascl.soft03003A
 1303.004	Viti, Serena	1	2013ascl.soft03004V
 1303.009	Möller, T.; Bernst, I.; Panoglou, D.; Muders, D.; Ossenkopf, V.; Röllig, M.; Schilke, P.	1	2013ascl.soft03009M
@@ -260,7 +260,7 @@ ascl_id	credit	num_citations	bibcode
 1303.020	Jeschke, Eric	1	2013ascl.soft03020J
 1303.021	Budavari, Tamas; Lee, Matthias A.	2	2013ascl.soft03021B
 1303.022	Sotomayor-Beltran, C.; Sobey, C.; Hessels, J. W. T.; de Bruyn, G.; Noutsos, A.; Alexov, A.; Anderson, J.; Asgekar, A.; Avruch, I. M.; Beck, R.; Bell, M. E.; Bell, M. R.; Bentum, M. J.; Bernardi, G.; Best, P.; Birzan, L.; Bonafede, A.; Breitling, F.; Broderick, J.; Brouw, W. N.; Brueggen, M.; Ciardi, B.; de Gasperin, F.; Dettmar, R.-J.; van Duin, A.; Duscha, S.; Eisloeffel, J.; Falcke, H.; Fallows, R. A.; Fender, R.; Ferrari, C.; Frieswijk, W.; Garrett, M. A.; Griessmeier, J.; Grit, T.; Gunst, A. W.; Hassall, T. E.; Heald, G.; Hoeft, M.; Horneffer, A.; Iacobelli, M.; Juette, E.; Karastergiou, A.; Keane, E.; Kohler, J.; Kramer, M.; Kondratiev, V. I.; Koopmans, L. V. E.; Kuniyoshi, M.; Kuper, G.; van Leeuwen, J.; Maat, P.; Macario, G.; Markoff, S.; McKean, J. P.; Mulcahy, D. D.; Munk, H.; Orru, E.; Paas, H.; Pandey-Pommier, M.; Pilia, M.; Pizzo, R.; Polatidis, A. G.; Reich, W.; Roettgering, H.; Serylak, M.; Sluman, J.; Stappers, B. W.; Tagger, M.; Tang, Y.; Tasse, C.; ter Veen, S.; Vermeulen, R.; van Weeren, R. J.; Wijers, R. A. M. J.; Wijnholds, S. J.; Wise, M. W.; Wucknitz, O.; Yatawatta, S.; Zarka, P.	2	2013ascl.soft03022S
-1303.023	STScI development Team	27	2013ascl.soft03023S
+1303.023	STScI development Team	26	2013ascl.soft03023S
 1303.024	Kurucz, Robert L.	30	2013ascl.soft03024K
 1303.029	Fourt, O.; Starck, J.-L.; Sureau, F.; Bobin, J.; Moudden, Y.; Abrial, P.; Schmitt, J.	1	2013ascl.soft03029F
 1304.001	Mighell, Kenneth J.	1	2013ascl.soft04001M
@@ -274,7 +274,7 @@ ascl_id	credit	num_citations	bibcode
 1304.017	Chluba, Jens; Thomas, Rajat Mani	1	2013ascl.soft04017C
 1304.020	Morisset, Christophe	15	2013ascl.soft04020M
 1304.021	Luridiana, V.; Morisset, C.; Shaw, R. A.	2	2013ascl.soft04021L
-1305.002	Pontzen, Andrew; Roškar, Rok; Stinson, Greg; Woods, Rory	99	2013ascl.soft05002P
+1305.002	Pontzen, Andrew; Roškar, Rok; Stinson, Greg; Woods, Rory	98	2013ascl.soft05002P
 1305.004	Colombi, S.	1	2013ascl.soft05004C
 1305.005	Stadel, Joachim	4	2013ascl.soft05005S
 1305.006	Hopkins, Philip F.	2	2013ascl.soft05006H
@@ -295,7 +295,7 @@ ascl_id	credit	num_citations	bibcode
 1309.003	Sana, Hugues	1	2013ascl.soft09003S
 1309.005	Johnson, Seth	1	2013ascl.soft09005J
 1309.008	VOStat Development Group	1	2013ascl.soft09008V
-1310.001	Jenness, Tim; Economou, Frossie; Cavanagh, Brad; Currie, Malcolm J.; Gibb, Andy	3	2013ascl.soft10001J
+1310.001	Jenness, Tim; Economou, Frossie; Cavanagh, Brad; Currie, Malcolm J.; Gibb, Andy	2	2013ascl.soft10001J
 1310.002	Guillet, Thomas; Chapon, Damien; Labadens, Marc	3	2013ascl.soft10002G
 1310.005	Bourgès, Laurent; Mella, Guillaume; Lafrasse, Sylvain; Duvert, Gilles	3	2013ascl.soft10005B
 1310.007	Jenness, Tim; Chapin, Edward L.; Berry, David S.; Gibb, Andy G.; Tilanus, Remo P. J.; Balfour, Jennifer; Tilanus, Vincent; Currie, Malcolm J.	21	2013ascl.soft10007J
@@ -304,7 +304,6 @@ ascl_id	credit	num_citations	bibcode
 1312.002	Shamir, Lior; Orlov, Nikita; Eckley, D. Mark; Macura, Tomasz; Johnston, Josiah; Goldberg, Ilya	8	2013ascl.soft12002S
 1312.007	Graff, Philip; Feroz, Farhan	5	2013ascl.soft12007G
 1402.002	Beaumont, Chris; Robitaille, Thomas; Borkin, Michelle	4	2014ascl.soft02002B
-1402.004	Graham, Matthew; Plante, Ray; Tody, Doug; Fitzpatrick, Mike	1	2014ascl.soft02004G
 1402.006	Hroch, Filip	5	2014ascl.soft02006H
 1402.007	Draper, Peter W.	4	2014ascl.soft02007D
 1402.008	Castro-Neves, Margarida; Draper, Peter W.	2	2014ascl.soft02008C
@@ -395,13 +394,13 @@ ascl_id	credit	num_citations	bibcode
 1502.007	Mohan, Niruj; Rafferty, David	76	2015ascl.soft02007M
 1502.012	Thompson, Robert	7	2015ascl.soft02012T
 1502.017	Staley, Tim D.; Anderson, Gemma E.	6	2015ascl.soft02017S
-1502.021	Bachetti, Matteo	17	2015ascl.soft02021B
+1502.021	Bachetti, Matteo	16	2015ascl.soft02021B
 1502.022	Bizyaev, Dmitry; Shetrone, Matthew	1	2015ascl.soft02022B
 1503.001	Barentsen, Geert	3	2015ascl.soft03001B
 1503.003	Kang, Wonseok; Lee, Sang-Gak	1	2015ascl.soft03003K
 1503.005	Corrales, Lia	2	2015ascl.soft03005C
 1503.008	Günther, Hans M.; Poppenhaeger, Katja	1	2015ascl.soft03008G
-1503.010	Morton, Timothy D.	77	2015ascl.soft03010M
+1503.010	Morton, Timothy D.	76	2015ascl.soft03010M
 1503.011	Morton, Timothy D.	63	2015ascl.soft03011M
 1504.003	ESO CPL Development Team	5	2015ascl.soft04003E
 1504.004	Becker, Andrew	46	2015ascl.soft04004B
@@ -426,7 +425,7 @@ ascl_id	credit	num_citations	bibcode
 1505.033	Morozova, V.; Ott, C. D.; Piro, A. L.	4	2015ascl.soft05033M
 1505.034	Brown, Edward F.	8	2015ascl.soft05034B
 1506.001	Wang, Jason J.; Ruffio, Jean-Baptise; De Rosa, Robert J.; Aguilar, Jonathan; Wolff, Schuyler G.; Pueyo, Laurent	27	2015ascl.soft06001W
-1506.002	Gluscevic, Vera; McDermott, Samuel D.	6	2015ascl.soft06002G
+1506.002	Gluscevic, Vera; McDermott, Samuel D.	4	2015ascl.soft06002G
 1506.005	Fonnesbeck, Chris; Patil, Anand; Huard, David; Salvatier, John	10	2015ascl.soft06005F
 1507.001	Di Teodoro, E. M.; Fraternali, F.	1	2015ascl.soft07001D
 1507.003	Mort, Benjamin; Dulwich, Fred; Williams, Chris; Salvini, Stefano	1	2015ascl.soft07003M
@@ -441,7 +440,7 @@ ascl_id	credit	num_citations	bibcode
 1508.005	Coe, Dan; Benitez, Narciso	1	2015ascl.soft08005C
 1508.007	Jarvis, Mike	10	2015ascl.soft08007J
 1508.008	Sheldon, Erin	5	2015ascl.soft08008S
-1509.002	Nice, D; Demorest, P.; Stairs, I.; Manchester, R.; Taylor, J.; Peters, W.; Weisberg, J.; Irwin, A.; Wex, N.; Huang, Y.	10	2015ascl.soft09002N
+1509.002	Nice, D; Demorest, P.; Stairs, I.; Manchester, R.; Taylor, J.; Peters, W.; Weisberg, J.; Irwin, A.; Wex, N.; Huang, Y.	9	2015ascl.soft09002N
 1509.005	Smitka, Michael T.	2	2015ascl.soft09005S
 1509.006	Benítez Llambay, Pablo; Masset, Frédéric	2	2015ascl.soft09006B
 1510.002	Kreidberg, Laura	3	2015ascl.soft10002K
@@ -512,7 +511,7 @@ ascl_id	credit	num_citations	bibcode
 1607.011	Estalella, Robert	1	2016ascl.soft07011E
 1607.012	Brahm, Rafael; Jordan, Andres; Hartman, Joel; Bakos, Gaspar	1	2016ascl.soft07012B
 1607.018	Ho, I-Ting	3	2016ascl.soft07018H
-1608.001	Huppenkothen, Daniela; Bachetti, Matteo; Stevens, Abigail L.; Migliari, Simone; Balm, Paul	5	2016ascl.soft08001H
+1608.001	Huppenkothen, Daniela; Bachetti, Matteo; Stevens, Abigail L.; Migliari, Simone; Balm, Paul	4	2016ascl.soft08001H
 1608.004	Cubillos, Patricio; Blecic, Jasmina; Harrington, Joseph; Rojo, Patricio; Lust, Nate; Bowman, Oliver; Stemm, Madison; Foster, Andrew; Loredo, Thomas J.; Fortney, Jonathan; Madhusudhan, Nikku	4	2016ascl.soft08004C
 1608.006	Gemini Observatory; AURA	3	2016ascl.soft08006G
 1608.009	Koch, Eric W.; Rosolowsky, Erik W.	1	2016ascl.soft08009K
@@ -553,7 +552,7 @@ ascl_id	credit	num_citations	bibcode
 1701.006	Barklem, Paul S.	1	2017ascl.soft01006B
 1701.007	Chen, Jingjing; Kipping, David	1	2017ascl.soft01007C
 1702.002	Foreman-Mackey, Daniel	7	2017ascl.soft02002F
-1703.003	Sinha, Manodeep; Garrison, Lehman	30	2017ascl.soft03003S
+1703.003	Sinha, Manodeep; Garrison, Lehman	27	2017ascl.soft03003S
 1703.004	Mommert, Michael	2	2017ascl.soft03004M
 1703.011	Kerutt, Josephine	4	2017ascl.soft03011K
 1704.001	Williams, Peter K. G.; Clavel, Maïca; Newton, Elisabeth; Ryzhkov, Denis	16	2017ascl.soft04001W
@@ -619,8 +618,8 @@ ascl_id	credit	num_citations	bibcode
 1804.021	Wallin, Anders E.E.; Price, Danny C.; Carson, Cantwell G.; Meynadier, Frédéric	1	2018ascl.soft04021W
 1804.026	Sabiu, Cristiano	2	2018ascl.soft04026S
 1805.008	Vasiliev, Eugene	1	2018ascl.soft05008V
-1805.014	Petit, J.-M.; Kavelaars, J.J.; Gladman, B.; Alexandersen, M.	2	2018ascl.soft05014P
-1805.015	Kochukhov, O.	4	2018ascl.soft05015K
+1805.014	Petit, J.-M.; Kavelaars, J.J.; Gladman, B.; Alexandersen, M.	1	2018ascl.soft05014P
+1805.015	Kochukhov, O.	3	2018ascl.soft05015K
 1805.017	Pierel, Justin D. R.;  Rodney, Steven A.;  Avelino, Arturo; Bianco, Federica; Foley, Ryan J.; Friedman, Andrew; Hicken, Malcolm; Hounsell, Rebekah; Jha, Saurabh W.; Kessler, Richard; Kirshner, Robert; Mandel, Kaisey; Narayan, Gautham; Filippenko, Alexei V.; Scolnic, Daniel; Strolger, Louis-Gregory	1	2018ascl.soft05017P
 1805.018	Yu, Hao-Ran; Pen, Ue-Li; Wang, Xin	1	2018ascl.soft05018Y
 1805.019	Bachetti, Matteo	2	2018ascl.soft05019B
@@ -639,7 +638,7 @@ ascl_id	credit	num_citations	bibcode
 1807.023	Bevan, Antonia	1	2018ascl.soft07023B
 1807.028	Barclay, Thomas	1	2018ascl.soft07028B
 1808.002	Gallardo, Tabare	1	2018ascl.soft08002G
-1808.004	Greenbaum, Alexandra Z.; Sivaramakrishnan, Anand; Sahlmann, Johannes; Thatte, Deepashree	2	2018ascl.soft08004G
+1808.004	Greenbaum, Alexandra Z.; Sivaramakrishnan, Anand; Sahlmann, Johannes; Thatte, Deepashree	1	2018ascl.soft08004G
 1808.011	Hancock, Paul J.; Hurley-Walker, N.; White, T.	1	2018ascl.soft08011H
 1809.008	Guo, Hengxiao; Shen, Yue; Wang, Shu	3	2018ascl.soft09008G
 1809.009	Balser, Dana S.; Bania, T. M.	1	2018ascl.soft09009B

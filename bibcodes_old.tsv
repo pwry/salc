@@ -327,7 +327,6 @@ ascl_id	num_commas	num_semicolons	bibcode	type
 1107.010	4	3	2011PASP..123.1004R	described_in
 1107.011	1	0	2007astro.ph..3646S	described_in
 1107.012	2	1	2010A&A...523A..25B	described_in
-1107.012	2	1	2010A&A...523A..25B	citation_method
 1107.013	0	0	2007ASPC..376..127M	described_in
 1107.013	0	0	2007ASPC..376..127M	citation_method
 1107.014	3	2	1994ApJ...428..693W	described_in
@@ -725,8 +724,6 @@ ascl_id	num_commas	num_semicolons	bibcode	type
 1306.011	2	1	2007ApJ...654....2F	described_in
 1306.013	3	2	2011ApJ...737...21L	described_in
 1306.014	2	1	1992ApJS...80..753S	described_in
-1306.014	2	1	1992ApJS...80..791S	described_in
-1306.014	2	1	1992ApJS...80..819S	described_in
 1306.015	2	1	2002ApJ...573..728M	described_in
 1306.016	1	0	2006HEAD....9.1358A	described_in
 1307.001	9	8	2011A&A...525A.103C	described_in
@@ -1598,7 +1595,7 @@ ascl_id	num_commas	num_semicolons	bibcode	type
 1811.013	2	1	2006PASP..118..442W	described_in
 1811.013	2	1	1995ApJ...448..822S	described_in
 1701.001	4	3	2017ApJ...837...20P	described_in
-1701.001	4	3	2017ApJ...837...20P	citation_method
+1701.001	4	3	2016arXiv161007602P	citation_method
 1701.012	2	1	2013JCAP...04..003P	described_in
 1701.012	2	1	2014arXiv1405.2280P	described_in
 1701.012	2	1	2014arXiv1405.2280P	citation_method

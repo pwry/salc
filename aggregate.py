@@ -29,10 +29,11 @@ entries = {}
 
 def process(item):
 	if item['ascl_id'] not in entries:
-		entries[item['ascl_id']] = Entry(ascl_id=item['ascl_id'], bibcode=item['bibcode'], credit=item['credit'], num_citations=item['num_citations'])
+		entries[item['ascl_id']] = Entry(ascl_id=item['ascl_id'], bibcode=item['resolved_bibcode'], credit=item['credit'], num_citations=item['num_citations'])
 	else:
-		if item['bibcode'] not in entries[item['ascl_id']].bibcodes:
-			entries[item['ascl_id']].add_bibcode(item['bibcode'], item['num_citations'])
+		print(item)
+		if item['resolved_bibcode'] not in entries[item['ascl_id']].bibcodes:
+			entries[item['ascl_id']].add_bibcode(item['resolved_bibcode'], item['num_citations'])
 
 
 cur.execute("SELECT * FROM bibcodes WHERE bibcode <> \'2018ascl.soft02005K\' AND bibcode <> \'2019ascl.soft07008S\'")
@@ -42,6 +43,8 @@ for item in cur.fetchall():
 with open('ascl_entry_citations.tsv', encoding='utf-8') as f:
 	reader = csv.DictReader(f, delimiter="\t", dialect='excel-tab')
 	for row in reader:
+		# lame workaround
+		row['resolved_bibcode'] = row['bibcode']
 		process(row)
 
 with open('res.tsv','w',encoding='utf-8') as out:

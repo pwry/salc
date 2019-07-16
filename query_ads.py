@@ -11,11 +11,11 @@ bibcodes = cur.fetchall()
 for bibcode_tuple in bibcodes:
 	bibcode = bibcode_tuple[0]
 	print(bibcode)
-	article = list(ads.SearchQuery(bibcode=bibcode, fl=['citation_count']))
+	article = list(ads.SearchQuery(bibcode=bibcode, fl=['citation_count', 'bibcode']))
 	if not article:
-		article = list(ads.SearchQuery(alternate_bibcode=bibcode, fl=['citation_count']))
+		article = list(ads.SearchQuery(alternate_bibcode=bibcode, fl=['citation_count', 'bibcode']))
 	article = article[0]
-	cur.execute('UPDATE bibcodes SET num_citations = ? WHERE bibcode = ?', (article.citation_count, bibcode))
+	cur.execute('UPDATE bibcodes SET num_citations = ?, resolved_bibcode = ? WHERE bibcode = ?', (article.citation_count, article.bibcode, bibcode))
 	conn.commit()
 
 conn.close()
